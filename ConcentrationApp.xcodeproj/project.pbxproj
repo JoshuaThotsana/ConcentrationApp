@@ -81,6 +81,7 @@
 		3AAAA6662559B48300438D60 = {
 			isa = PBXGroup;
 			children = (
+				3AAAA6A82559B62900438D60 /* Supporting Files */,
 				3AAAA6712559B48300438D60 /* ConcentrationApp */,
 				3AAAA68B2559B48500438D60 /* ConcentrationAppTests */,
 				3AAAA6962559B48600438D60 /* ConcentrationAppUITests */,
@@ -101,14 +102,9 @@
 		3AAAA6712559B48300438D60 /* ConcentrationApp */ = {
 			isa = PBXGroup;
 			children = (
-				3AAAA6722559B48300438D60 /* AppDelegate.swift */,
-				3AAAA6742559B48300438D60 /* SceneDelegate.swift */,
 				3AAAA6762559B48300438D60 /* ViewController.swift */,
 				3AAAA6782559B48300438D60 /* Main.storyboard */,
-				3AAAA67E2559B48500438D60 /* Assets.xcassets */,
-				3AAAA6802559B48500438D60 /* LaunchScreen.storyboard */,
 				3AAAA6832559B48500438D60 /* Info.plist */,
-				3AAAA67B2559B48300438D60 /* ConcentrationApp.xcdatamodeld */,
 			);
 			path = ConcentrationApp;
 			sourceTree = "<group>";
@@ -129,6 +125,18 @@
 				3AAAA6992559B48600438D60 /* Info.plist */,
 			);
 			path = ConcentrationAppUITests;
+			sourceTree = "<group>";
+		};
+		3AAAA6A82559B62900438D60 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3AAAA6722559B48300438D60 /* AppDelegate.swift */,
+				3AAAA6742559B48300438D60 /* SceneDelegate.swift */,
+				3AAAA67E2559B48500438D60 /* Assets.xcassets */,
+				3AAAA6802559B48500438D60 /* LaunchScreen.storyboard */,
+				3AAAA67B2559B48300438D60 /* ConcentrationApp.xcdatamodeld */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
