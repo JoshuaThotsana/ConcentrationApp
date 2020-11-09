@@ -40,6 +40,7 @@ class Concentration {
 			cards += [card, card]
 		}
 		// TODO: Shuffle the cards
+		// Shuffle this cards.
 			
 	}
 	
